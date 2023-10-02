@@ -1,0 +1,3 @@
+*.exe
+.vscode/
+testing.cpp
